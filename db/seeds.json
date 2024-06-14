@@ -12,7 +12,14 @@
       "copies_available": 12,
       "reorder_level": 5,
       "retail_price": 1100,
-      "buying_price": 600
+      "buying_price": 600,
+      "supplier": {
+        "supplier_name": "Supplier A",
+        "contacts": {
+          "phone_number": "+254712345678",
+          "email_address": "supplierA@example.com"
+        }
+      }
     },
     {
       "book_id": 2,
@@ -23,10 +30,17 @@
       "publisher": "J.B. Lippincott & Co.",
       "publication_year": 1960,
       "category": "Fiction",
-      "copies_available": 8,
+      "copies_available": 2,
       "reorder_level": 3,
       "retail_price": 800,
-      "buying_price": 480
+      "buying_price": 480,
+      "supplier": {
+        "supplier_name": "Supplier B",
+        "contacts": {
+          "phone_number": "+254723456789",
+          "email_address": "supplierB@example.com"
+        }
+      }
     },
     {
       "book_id": 3,
@@ -40,7 +54,14 @@
       "copies_available": 15,
       "reorder_level": 5,
       "retail_price": 999,
-      "buying_price": 575
+      "buying_price": 575,
+      "supplier": {
+        "supplier_name": "Supplier C",
+        "contacts": {
+          "phone_number": "+254734567890",
+          "email_address": "supplierC@example.com"
+        }
+      }
     },
     {
       "book_id": 4,
@@ -54,7 +75,14 @@
       "copies_available": 20,
       "reorder_level": 10,
       "retail_price": 3599,
-      "buying_price": 2000
+      "buying_price": 2000,
+      "supplier": {
+        "supplier_name": "Supplier D",
+        "contacts": {
+          "phone_number": "+254745678901",
+          "email_address": "supplierD@example.com"
+        }
+      }
     },
     {
       "book_id": 5,
@@ -68,7 +96,14 @@
       "copies_available": 18,
       "reorder_level": 8,
       "retail_price": 4499,
-      "buying_price": 2500
+      "buying_price": 2500,
+      "supplier": {
+        "supplier_name": "Supplier E",
+        "contacts": {
+          "phone_number": "+254756789012",
+          "email_address": "supplierE@example.com"
+        }
+      }
     },
     {
       "book_id": 6,
@@ -82,7 +117,14 @@
       "copies_available": 14,
       "reorder_level": 6,
       "retail_price": 1299,
-      "buying_price": 720
+      "buying_price": 720,
+      "supplier": {
+        "supplier_name": "Supplier F",
+        "contacts": {
+          "phone_number": "+254767890123",
+          "email_address": "supplierF@example.com"
+        }
+      }
     },
     {
       "book_id": 7,
@@ -96,7 +138,14 @@
       "copies_available": 5,
       "reorder_level": 2,
       "retail_price": 1199,
-      "buying_price": 690
+      "buying_price": 690,
+      "supplier": {
+        "supplier_name": "Supplier G",
+        "contacts": {
+          "phone_number": "+254778901234",
+          "email_address": "supplierG@example.com"
+        }
+      }
     },
     {
       "book_id": 8,
@@ -107,10 +156,17 @@
       "publisher": "The Russian Messenger",
       "publication_year": 1869,
       "category": "Historical Fiction",
-      "copies_available": 6,
+      "copies_available": 3,
       "reorder_level": 3,
       "retail_price": 1399,
-      "buying_price": 850
+      "buying_price": 850,
+      "supplier": {
+        "supplier_name": "Supplier H",
+        "contacts": {
+          "phone_number": "+254789012345",
+          "email_address": "supplierH@example.com"
+        }
+      }
     },
     {
       "book_id": 9,
@@ -124,7 +180,14 @@
       "copies_available": 9,
       "reorder_level": 4,
       "retail_price": 750,
-      "buying_price": 420
+      "buying_price": 420,
+      "supplier": {
+        "supplier_name": "Supplier I",
+        "contacts": {
+          "phone_number": "+254790123456",
+          "email_address": "supplierI@example.com"
+        }
+      }
     },
     {
       "book_id": 10,
@@ -138,7 +201,14 @@
       "copies_available": 11,
       "reorder_level": 5,
       "retail_price": 850,
-      "buying_price": 500
+      "buying_price": 500,
+      "supplier": {
+        "supplier_name": "Supplier J",
+        "contacts": {
+          "phone_number": "+254701234567",
+          "email_address": "supplierJ@example.com"
+        }
+      }
     }
   ]
 }
