@@ -1,7 +1,7 @@
 {
   "books": [
     {
-      "book_id": 1,
+      "id": 1,
       "title": "The Great Gatsby",
       "authors": ["F. Scott Fitzgerald"],
       "cover_image": "https://i0.wp.com/americanwritersmuseum.org/wp-content/uploads/2018/02/CK-3.jpg?resize=267%2C400&ssl=1",
@@ -22,7 +22,7 @@
       }
     },
     {
-      "book_id": 2,
+      "id": 2,
       "title": "To Kill a Mockingbird",
       "authors": ["Harper Lee"],
       "cover_image": "https://media.glamour.com/photos/56e1f3c4bebf143c52613c00/master/w_1600,c_limit/entertainment-2016-02-06-main.jpg",
@@ -43,7 +43,7 @@
       }
     },
     {
-      "book_id": 3,
+      "id": 3,
       "title": "1984",
       "authors": ["George Orwell"],
       "cover_image": "https://149522020.v2.pressablecdn.com/wp-content/uploads/2017/01/2a34d8_a6741e88335241308890543d203ad89dmv2.jpg",
@@ -64,7 +64,7 @@
       }
     },
     {
-      "book_id": 4,
+      "id": 4,
       "title": "Eloquent JavaScript",
       "authors": ["Marijn Haverbeke"],
       "cover_image": "https://eloquentjavascript.net/img/cover.jpg",
@@ -85,7 +85,7 @@
       }
     },
     {
-      "book_id": 5,
+      "id": 5,
       "title": "Learning Python",
       "authors": ["Mark Lutz"],
       "cover_image": "https://m.media-amazon.com/images/I/41OTurhZsLL._AC_UF1000,1000_QL80_.jpg",
@@ -106,7 +106,7 @@
       }
     },
     {
-      "book_id": 6,
+      "id": 6,
       "title": "The Hobbit",
       "authors": ["J.R.R. Tolkien"],
       "cover_image": "https://m.media-amazon.com/images/I/712cDO7d73L._AC_UF1000,1000_QL80_.jpg",
@@ -127,7 +127,7 @@
       }
     },
     {
-      "book_id": 7,
+      "id": 7,
       "title": "Moby-Dick",
       "authors": ["Herman Melville"],
       "cover_image": "https://m.media-amazon.com/images/I/61n8wJYJcdL._AC_UF1000,1000_QL80_.jpg",
@@ -148,7 +148,7 @@
       }
     },
     {
-      "book_id": 8,
+      "id": 8,
       "title": "War and Peace",
       "authors": ["Leo Tolstoy"],
       "cover_image": "https://m.media-amazon.com/images/I/71wXZB-VtBL._AC_UF1000,1000_QL80_.jpg",
@@ -169,7 +169,7 @@
       }
     },
     {
-      "book_id": 9,
+      "id": 9,
       "title": "Jane Eyre",
       "authors": ["Charlotte Brontë"],
       "cover_image": "https://m.media-amazon.com/images/I/61RmfGsyCrL._AC_UF1000,1000_QL80_.jpg",
@@ -190,7 +190,7 @@
       }
     },
     {
-      "book_id": 10,
+      "id": 10,
       "title": "The Adventures of Huckleberry Finn",
       "authors": ["Mark Twain"],
       "cover_image": "https://m.media-amazon.com/images/I/91sBZnKzEfL._AC_UF1000,1000_QL80_.jpg",
