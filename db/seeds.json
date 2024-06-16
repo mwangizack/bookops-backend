@@ -13,13 +13,9 @@
       "reorder_level": 5,
       "retail_price": 1100,
       "buying_price": 600,
-      "supplier": {
-        "supplier_name": "Supplier A",
-        "contacts": {
-          "phone_number": "+254712345678",
-          "email_address": "supplierA@example.com"
-        }
-      }
+      "supplier_name": "Supplier A",
+      "supplier_phone_number": "+254712345678",
+      "supplier_email_address": "supplierA@example.com"
     },
     {
       "id": 2,
@@ -34,13 +30,9 @@
       "reorder_level": 3,
       "retail_price": 800,
       "buying_price": 480,
-      "supplier": {
-        "supplier_name": "Supplier B",
-        "contacts": {
-          "phone_number": "+254723456789",
-          "email_address": "supplierB@example.com"
-        }
-      }
+      "supplier_name": "Supplier B",
+      "supplier_phone_number": "+254723456789",
+      "supplier_email_address": "supplierB@example.com"
     },
     {
       "id": 3,
@@ -55,13 +47,9 @@
       "reorder_level": 5,
       "retail_price": 999,
       "buying_price": 575,
-      "supplier": {
-        "supplier_name": "Supplier C",
-        "contacts": {
-          "phone_number": "+254734567890",
-          "email_address": "supplierC@example.com"
-        }
-      }
+      "supplier_name": "Supplier C",
+      "supplier_phone_number": "+254734567890",
+      "supplier_email_address": "supplierC@example.com"
     },
     {
       "id": 4,
@@ -76,13 +64,9 @@
       "reorder_level": 10,
       "retail_price": 3599,
       "buying_price": 2000,
-      "supplier": {
-        "supplier_name": "Supplier D",
-        "contacts": {
-          "phone_number": "+254745678901",
-          "email_address": "supplierD@example.com"
-        }
-      }
+      "supplier_name": "Supplier D",
+      "supplier_phone_number": "+254745678901",
+      "supplier_email_address": "supplierD@example.com"
     },
     {
       "id": 5,
@@ -97,13 +81,9 @@
       "reorder_level": 8,
       "retail_price": 4499,
       "buying_price": 2500,
-      "supplier": {
-        "supplier_name": "Supplier E",
-        "contacts": {
-          "phone_number": "+254756789012",
-          "email_address": "supplierE@example.com"
-        }
-      }
+      "supplier_name": "Supplier E",
+      "supplier_phone_number": "+254756789012",
+      "supplier_email_address": "supplierE@example.com"
     },
     {
       "id": 6,
@@ -118,13 +98,9 @@
       "reorder_level": 6,
       "retail_price": 1299,
       "buying_price": 720,
-      "supplier": {
-        "supplier_name": "Supplier F",
-        "contacts": {
-          "phone_number": "+254767890123",
-          "email_address": "supplierF@example.com"
-        }
-      }
+      "supplier_name": "Supplier F",
+      "supplier_phone_number": "+254767890123",
+      "supplier_email_address": "supplierF@example.com"
     },
     {
       "id": 7,
@@ -139,13 +115,9 @@
       "reorder_level": 2,
       "retail_price": 1199,
       "buying_price": 690,
-      "supplier": {
-        "supplier_name": "Supplier G",
-        "contacts": {
-          "phone_number": "+254778901234",
-          "email_address": "supplierG@example.com"
-        }
-      }
+      "supplier_name": "Supplier G",
+      "supplier_phone_number": "+254778901234",
+      "supplier_email_address": "supplierG@example.com"
     },
     {
       "id": 8,
@@ -160,13 +132,9 @@
       "reorder_level": 3,
       "retail_price": 1399,
       "buying_price": 850,
-      "supplier": {
-        "supplier_name": "Supplier H",
-        "contacts": {
-          "phone_number": "+254789012345",
-          "email_address": "supplierH@example.com"
-        }
-      }
+      "supplier_name": "Supplier H",
+      "supplier_phone_number": "+254789012345",
+      "supplier_email_address": "supplierH@example.com"
     },
     {
       "id": 9,
@@ -181,13 +149,9 @@
       "reorder_level": 4,
       "retail_price": 750,
       "buying_price": 420,
-      "supplier": {
-        "supplier_name": "Supplier I",
-        "contacts": {
-          "phone_number": "+254790123456",
-          "email_address": "supplierI@example.com"
-        }
-      }
+      "supplier_name": "Supplier I",
+      "supplier_phone_number": "+254790123456",
+      "supplier_email_address": "supplierI@example.com"
     },
     {
       "id": 10,
@@ -202,13 +166,26 @@
       "reorder_level": 5,
       "retail_price": 850,
       "buying_price": 500,
-      "supplier": {
-        "supplier_name": "Supplier J",
-        "contacts": {
-          "phone_number": "+254701234567",
-          "email_address": "supplierJ@example.com"
-        }
-      }
+      "supplier_name": "Supplier J",
+      "supplier_phone_number": "+254701234567",
+      "supplier_email_address": "supplierJ@example.com"
+    },
+    {
+      "id": 11,
+      "title": "Atomic Habits",
+      "authors": ["James Clear"],
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/I/51-uspgqWIL._SX329_BO1,204,203,200_.jpg",
+      "summary": "An Easy & Proven Way to Build Good Habits & Break Bad Ones. Discover practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results.",
+      "publisher": "Avery",
+      "publication_year": 2018,
+      "category": "Motivational",
+      "copies_available": 20,
+      "reorder_level": 10,
+      "retail_price": 1500,
+      "buying_price": 800,
+      "supplier_name": "Avery Press",
+      "supplier_phone_number": "+2547012345679",
+      "supplier_email_address": "averypress@avery.com"
     }
   ]
 }
